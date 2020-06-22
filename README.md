@@ -1,6 +1,8 @@
 # Mocked Camera Demo Tests
 Example tests to demonstrate the browser capabilities required to mock webcams for automated tests
 
+More info: https://qa-code.com
+
 ## General ##
 - You must have the browser installed locally in order to run these tests. 
 - The NuGet webdriver packages must match the version of the browser you are running against. If the tests report driver version errors, update the associated NuGet package (ChromeDriver, FirefoxDriver etc...) in the test project and update your browser to the latest (non-beta) version.
