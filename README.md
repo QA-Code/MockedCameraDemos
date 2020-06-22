@@ -23,3 +23,6 @@ Make sure you have enable remote automation in Safari https://developer.apple.co
 
 Change the SafariDriverPath, SafariVersion and MacPlatform variables to match your local setup.
 
+## Help us out ##
+If this project has helped you out, how about a small contribution? https://www.buymeacoffee.com/QACode
+
